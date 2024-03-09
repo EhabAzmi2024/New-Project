@@ -61,6 +61,8 @@ public class JavaClass {
 //			AddToCart.get(5).click();
 //			
 //			
+			String myname="ehab";
+			
 
 		}
 
